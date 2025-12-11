@@ -1,6 +1,5 @@
-##Hi there##
-#  About Me: #
-##  Hi, I'm Ankush<br>BCA student & aspiring software developer from Haridwar.  <br>I enjoy building web apps, working with data, and exploring AI/ML.<br><br>### 🔧 Skills<br>- C, Python, JavaScript  <br>- HTML, CSS  <br>- SQL, Power BI  <br><br>### 🎯 Goals<br>- Improve ML skills  <br>- Build real-world projects  <br>- Contribute to open-source  <br>##
+
+Hi, I'm Ankush<br>BCA student & aspiring software developer from Haridwar. I enjoy building web apps, working with data, and exploring AI/ML. Skills<br>- C, Python, JavaScript  <br>- HTML, CSS  <br>- SQL, Power BI Goals Improve ML skills  <br>- Build real-world projects  Contribute to open-source  <br>##
 
 
 ##  Socials:
