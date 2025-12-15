@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github-widgetbox.vercel.app/api/profile?username=NishantkSingh0&data=followers,repositories,stars,commits&theme=radical&title_color=000000"
+    src="https://github-widgetbox.vercel.app/api/profile?username=ankush-kumar10&data=followers,repositories,stars,commits&theme=radical&title_color=000000"
     style="width: 100%; max-width: 1000px;"
   >
 </p>
@@ -39,23 +39,23 @@ I am a quick learner, highly motivated, and always eager to explore new technolo
 
 <div align="center"> 
   <div style="style="margin: 1.5em 0">
-    <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank" >  
-        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="50" height="50" 
+    <a href="https://github.com/ankush-kumar10/Proctoring-System" target="_blank" >  
+        <img src="https://github.com/ankush-kumar10/ankush-kumar10/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="50" height="50" 
             title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">&nbsp;&nbsp;
     </a> 
     <a href="https://learn.nvidia.com/certificates?id=mdYmVH7jRMK45Tgs4XemYQ" target="_blank">  
-        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/RAG (NVIDIA).png?raw=true"  width="50" height="50" 
+        <img src="https://github.com/ankush-kumar10/ankush-kumar10/blob/main/Images/RAG (NVIDIA).png?raw=true"  width="50" height="50" 
             title="Completed NVIDIA DLI's course on 'Building RAG Agents with LLMs'. Mastered creating AI agents with LangChain, Gradio, and FAISS for efficient document retrieval and dialog management.">
     </a>&nbsp;
     <a href="https://leetcode.com/u/mr_nishant_singh/" target="_blank">  
-        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/SQL_Badge.png?raw=true"  width="50" height="60" 
+        <img src="https://github.com/ankush-kumar10/ankush-kumar10/blob/main/Images/SQL_Badge.png?raw=true"  width="50" height="60" 
             title="Completed All 50 Easy to Hard LeetCode Questions on SQL">
     </a>
   </div>
   
   <br>
   
-  <a href="https://nishantksingh0.github.io/" target="_blank">
+  <a href="https://ankush-kumar10.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
   <a href="https://drive.google.com/drive/folders/11sXnbYaJclztz4Nij-nnEKrUQdsyVwPj?usp=sharing" target="_blank">
@@ -64,22 +64,22 @@ I am a quick learner, highly motivated, and always eager to explore new technolo
   <a href="https://drive.google.com/drive/folders/1oq09OjOj1CAEjD_lnrXS0fsRQyOEh5kj?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Certificates-76B900?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nishantksingh1/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/ankush-kumar101/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
-  <a href="mailto:nishantsingh.talk@zohomail.in" target="_blank"> 
+  <a href="mailto:ankushkumar.talk@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
-  <a href="https://www.kaggle.com/nishantsingh96" target="_blank">
+  <a href="https://www.kaggle.com/ankushkumar02" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://x.com/Nishantksingh0" target="_blank">
+  <a href="https://x.com/AnkushKumar29185" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/Nishantksingh" target="_blank">
+  <a href="https://www.hackerrank.com/profile/akbahot2004" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/mr_nishant_singh/" target="_blank">
+  <a href="https://leetcode.com/u/Mr_Ankush_kumar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-4512?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
