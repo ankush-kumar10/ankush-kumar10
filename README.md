@@ -1,32 +1,123 @@
+<p align="center">
+  <img 
+    src="https://github-widgetbox.vercel.app/api/profile?username=NishantkSingh0&data=followers,repositories,stars,commits&theme=radical&title_color=000000"
+    style="width: 100%; max-width: 1000px;"
+  >
+</p>
 
-Hi, I'm Ankush<br>BCA student & aspiring software developer from Haridwar. I enjoy building web apps, working with data, and exploring AI/ML. Skills<br>- C, Python, JavaScript  <br>- HTML, CSS  <br>- SQL, Power BI Goals Improve ML skills  <br>- Build real-world projects  Contribute to open-source  <br>##
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Data%20Scientist;Deep%20Learning%20Enthusiast;Open%20Source%20Contributor;Built%2030%2B%20Practical%20AI%20Projects;LLM%20%26%20Transformer%20Researcher&font=Roboto&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" 
+    alt="Typing SVG" 
+  />
+</p>
+
+  
+Hello! I’m **Ankush Kumar**, a passionate BCA student from Haridwar University, with a strong interest in Data Science, Artificial Intelligence, and Web Development. I enjoy solving real-world problems using data-driven approaches and modern technologies.
+
+I have hands-on experience in Machine Learning, Deep Learning, and Data Analysis, gained through my academic projects and a summer internship in Data Science with AI. During my internship, I worked on projects like Credit Card Fraud Detection, where I applied techniques such as NLP, BERT, KNN, DBSCAN, and Neural Networks to analyze and classify data efficiently.
+
+I am also skilled in Python, SQL, HTML, CSS, JavaScript, and Power BI, and I enjoy building practical applications like web-based systems and intelligent ML models. One of my key projects includes a Clone Tracker web application and an AI-based image analysis system for agriculture insights.
+
+I am a quick learner, highly motivated, and always eager to explore new technologies. My goal is to grow as a Data Scientist / Software Developer and contribute to impactful projects that combine innovation with real-world usefulness.
+
+<br><br>
+
+<div align="center">
+  <!-- <a href="https://github.com/nishantksingh0">
+    <img src="https://img.shields.io/github/followers/nishantksingh0?label=Followers&style=social" alt="GitHub Followers" />
+  </a> -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nishantksingh1" alt="Profile Views" />
+  <!-- <a href="https://github.com/nishantksingh0?tab=repositories">
+    <img src="https://img.shields.io/github/stars/nishantksingh0?style=social" alt="GitHub Stars" />
+  </a> -->
+</div>
 
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankush-kumar101/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnkushKumar29185) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AnkushKumar-ho1xz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushkumar.talk@gmail.com) 
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankush-kumar10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankush-kumar10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-kumar10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=ankush-kumar10&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center"> 
+  <div style="style="margin: 1.5em 0">
+    <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank" >  
+        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="50" height="50" 
+            title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">&nbsp;&nbsp;
+    </a> 
+    <a href="https://learn.nvidia.com/certificates?id=mdYmVH7jRMK45Tgs4XemYQ" target="_blank">  
+        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/RAG (NVIDIA).png?raw=true"  width="50" height="50" 
+            title="Completed NVIDIA DLI's course on 'Building RAG Agents with LLMs'. Mastered creating AI agents with LangChain, Gradio, and FAISS for efficient document retrieval and dialog management.">
+    </a>&nbsp;
+    <a href="https://leetcode.com/u/mr_nishant_singh/" target="_blank">  
+        <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/SQL_Badge.png?raw=true"  width="50" height="60" 
+            title="Completed All 50 Easy to Hard LeetCode Questions on SQL">
+    </a>
+  </div>
+  
+  <br>
+  
+  <a href="https://nishantksingh0.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/11sXnbYaJclztz4Nij-nnEKrUQdsyVwPj?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1oq09OjOj1CAEjD_lnrXS0fsRQyOEh5kj?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Certificates-76B900?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishantksingh1/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="mailto:nishantsingh.talk@zohomail.in" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+  <a href="https://www.kaggle.com/nishantsingh96" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://x.com/Nishantksingh0" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Nishantksingh" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mr_nishant_singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-4512?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
+<br><br><br>
+     
+| **Category**                 | **Technologies** |
+|------------------------------|------------------|
+| **DL Algorithm**             | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| **ML Algorithms**            | ![K-Means](https://img.shields.io/badge/K--Means-00599C?style=for-the-badge&logo=python&logoColor=white) ![Decision Tree](https://img.shields.io/badge/Decision_Tree-4CAF50?style=for-the-badge&logo=tree&logoColor=white) ![DBSCAN](https://img.shields.io/badge/DBSCAN-FF6347?style=for-the-badge&logo=python&logoColor=white) ![PCA](https://img.shields.io/badge/PCA-6A5ACD?style=for-the-badge&logo=matrix&logoColor=white) |
+| **LLMs & NLP**               | ![Transformers](https://img.shields.io/badge/Transformers-FFB86C?style=for-the-badge&logo=🤗&logoColor=black) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-6A5ACD?style=for-the-badge&logoColor=white) |
+| **Data Handling & Analysis** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge&logo=seaborn&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-1E90FF?style=for-the-badge&logo=chartdotjs&logoColor=white) |
+| **Development & Deployment** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Gradio](https://img.shields.io/badge/Gradio-17A2B8?style=for-the-badge&logo=gradio&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| **Programming Languages**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Core CS**                  | ![DSA](https://img.shields.io/badge/DSA-282C34?style=for-the-badge&logo=codeforces&logoColor=white) ![Advanced Python](https://img.shields.io/badge/Advanced_Python-306998?style=for-the-badge&logo=python&logoColor=white) |
+| **Platforms & Tools**        | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br><br>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantksingh0&theme=transparent" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantksingh0&&theme=transparent" alt="Stats"/>
+<!--   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantksingh0&utcOffset=10&&theme=transparent" alt="Productive Time"/> -->
+</div>
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=nishantksingh0&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
+</div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishantksingh0&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
+</p>
 <!--
-**ankush-kumar10/ankush-kumar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:4F46E5,50:3A0CA3,100:141321&section=footer&reversal=true" width="100%"/>
+</p>
+ -->
