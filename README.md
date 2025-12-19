@@ -100,21 +100,21 @@ I am a quick learner, highly motivated, and always eager to explore new technolo
 <br><br>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantksingh0&theme=transparent" alt="Profile Details"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankush-kumar10&theme=transparent" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantksingh0&&theme=transparent" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankush-kumar10&&theme=transparent" alt="Stats"/>
 <!--   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantksingh0&utcOffset=10&&theme=transparent" alt="Productive Time"/> -->
 </div>
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=nishantksingh0&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=ankush-kumar10&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
 </div>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishantksingh0&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankush-kumar10&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
 </p>
 <!--
 <p align="center">
